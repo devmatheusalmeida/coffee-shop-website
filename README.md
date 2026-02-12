@@ -1,65 +1,44 @@
-# coffee-shop-website
+# Coffee Shop Website
 
-# ☕ Coffee Shop Website
+Site de cafeteria moderno e responsivo desenvolvido com HTML5 e CSS3 para praticar os fundamentos do desenvolvimento front-end.
 
-Um site de cafeteria moderno e responsivo desenvolvido com **HTML5 e CSS3**, criado para praticar os fundamentos do desenvolvimento front-end.
+## Sobre o projeto
 
-O projeto simula a presença digital de uma cafeteria, apresentando produtos, ambiente aconchegante e uma navegação simples, limpa e intuitiva.
+Este projeto foi criado com o objetivo de fortalecer minha base em desenvolvimento web, aplicando conceitos essenciais como estrutura semântica, organização de layout, responsividade e boas práticas de interface.
 
----
+Acredito que dominar o básico é essencial antes de avançar para frameworks e tecnologias mais complexas.
 
-## 🚀 Sobre o projeto
-
-Este é um projeto de estudo focado em fortalecer minha base no desenvolvimento web.  
-Acredito que dominar o **básico (HTML + CSS)** é essencial antes de avançar para frameworks como React.
-
-Aqui trabalhei principalmente:
-- Estrutura semântica
-- Organização de layout
-- Responsividade
-- Estilização moderna
-- Boas práticas de UI/UX
-
----
-
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 
----
+## Funcionalidades
 
-## 📱 Funcionalidades
+- Página inicial estilizada
+- Seção de produtos
+- Layout responsivo
+- Design moderno
+- Código organizado
 
-- ✅ Página inicial estilizada
-- ✅ Seção de produtos
-- ✅ Layout responsivo
-- ✅ Design moderno e aconchegante
-- ✅ Estrutura organizada de arquivos
+## Preview
 
----
+Adicione imagens ou GIFs do projeto aqui.
 
-## 📸 Preview
+## Deploy
 
-Adicione prints do projeto aqui:
+Link do projeto online: (adicione aqui)
 
-![preview](./assets/preview.png)
+## Como executar
 
----
-
-## 🌐 Deploy
-
-Acesse o site online:  
-👉 (coloque aqui o link do GitHub Pages / Vercel / Netlify)
-
----
-
-## 📂 Como executar o projeto
-
-```bash
-# Clone o repositório
 git clone https://github.com/devmatheusalmeida/coffee-shop-website.git
 
-# Abra o arquivo
-index.html
+Abra o arquivo index.html no navegador.
+
+## Autor
+
+Matheus Almeida  
+Front-End Developer em formação
+
+GitHub: https://github.com/devmatheusalmeida
 
