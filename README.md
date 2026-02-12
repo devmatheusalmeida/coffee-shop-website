@@ -21,13 +21,9 @@ Acredito que dominar o básico é essencial antes de avançar para frameworks e 
 - Design moderno
 - Código organizado
 
-## Preview
-
-Adicione imagens ou GIFs do projeto aqui.
-
 ## Deploy
 
-Link do projeto online: (adicione aqui)
+Link do projeto online: https://devmatheusalmeida.github.io/coffee-shop-website/
 
 ## Como executar
 
